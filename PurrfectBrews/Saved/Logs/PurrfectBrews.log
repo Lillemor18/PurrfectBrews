@@ -709,3 +709,4 @@ LogConfig: CVar [[QualityLevelMapping:high]] deferred - dummy variable created
 [2022.11.16-20.09.33:709][  0]LogAssetRegistry: Asset discovery search completed in 4.4734 seconds
 [2022.11.16-20.09.33:712][  0]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000002 seconds (updated 0 objects)
 [2022.11.16-20.09.33:712][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2022.11.16-20.11.30:717][605]LogDerivedDataCache: C:/Users/Amaya/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:02.204 and deleted 0 file(s) with total size 0 MiB.
