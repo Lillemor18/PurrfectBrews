@@ -1720,3 +1720,9 @@ LogConfig: CVar [[QualityLevelMapping:high]] deferred - dummy variable created
 [2022.11.23-17.14.43:343][ 23]LogD3D12RHI: ~FD3D12DynamicRHI
 [2022.11.23-17.14.43:343][ 23]LogExit: Exiting.
 [2022.11.23-17.14.43:349][ 23]LogFileManager: Warning: DeleteFile was unable to delete '../../../Engine/Saved/Config/WindowsEditor/EditorSettings.ini', retrying in .5s...
+[2022.11.23-17.14.43:850][ 23]LogFileManager: Error: Error deleting file '../../../Engine/Saved/Config/WindowsEditor/EditorSettings.ini'.
+[2022.11.23-17.14.43:851][ 23]LogFileManager: Warning: DeleteFile was unable to delete '../../../Engine/Saved/Config/WindowsEditor/EditorKeyBindings.ini', retrying in .5s...
+[2022.11.23-17.14.44:352][ 23]LogFileManager: Error: Error deleting file '../../../Engine/Saved/Config/WindowsEditor/EditorKeyBindings.ini'.
+[2022.11.23-17.14.44:356][ 23]LogFileManager: Warning: DeleteFile was unable to delete '../../../Engine/Saved/Config/WindowsEditor/EditorLayout.ini', retrying in .5s...
+[2022.11.23-17.14.44:857][ 23]LogFileManager: Error: Error deleting file '../../../Engine/Saved/Config/WindowsEditor/EditorLayout.ini'.
+[2022.11.23-17.14.44:871][ 23]Log file closed, 11/23/22 18:14:44
