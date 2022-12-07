@@ -1566,3 +1566,599 @@ LogConfig: CVar [[QualityLevelMapping:high]] deferred - dummy variable created
 [2022.12.07-05.49.58:155][999]LogContentValidation: Display: Validating WidgetBlueprint /Game/MapAmaya/Inventory/InventoryUI/InventorySlot.InventorySlot
 [2022.12.07-05.49.58:155][999]LogContentValidation: Display: Validating WidgetBlueprint /Game/MapAmaya/Inventory/InventoryUI/InventoryWindow.InventoryWindow
 [2022.12.07-05.49.58:155][999]LogContentValidation: Display: Validating WidgetBlueprint /Game/MapAmaya/Inventory/InventoryUI/HUD.HUD
+[2022.12.07-05.52.34:835][850]LogEditorClassViewer: Warning: Class /Engine/Tutorial/InWorldBlueprintEditing/TutorialAssets/IWBE_Blutility.IWBE_Blutility_C has parent /Script/Blutility.PlacedEditorUtilityBase, but this parent is not found. The Class will not be shown in ClassViewer.
+[2022.12.07-05.52.56:081][135]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/MapAmaya/Character/BP_ThirdPersonGameMode.BP_ThirdPersonGameMode
+[2022.12.07-05.52.56:081][135]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.12.07-05.52.59:076][463]LogWorld: UWorld::CleanupWorld for World_19, bSessionEnded=true, bCleanupResources=true
+[2022.12.07-05.52.59:076][463]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.12.07-05.52.59:108][463]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/MapAmaya/Character/BP_ThirdPersonGameMode.BP_ThirdPersonGameMode
+[2022.12.07-05.52.59:108][463]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.12.07-05.54.38:276][994]LogEditorClassViewer: Warning: Class /Engine/Tutorial/InWorldBlueprintEditing/TutorialAssets/IWBE_Blutility.IWBE_Blutility_C has parent /Script/Blutility.PlacedEditorUtilityBase, but this parent is not found. The Class will not be shown in ClassViewer.
+[2022.12.07-05.55.03:397][994]LogSlate: Window 'Pick Parent Class' being destroyed
+[2022.12.07-05.55.03:404][994]LogContentBrowser: Deferred new asset file creation: NewBlueprint
+[2022.12.07-05.55.03:409][994]LogContentBrowser: Creating deferred item: NewBlueprint
+[2022.12.07-05.55.03:421][995]LogContentBrowser: Renaming the item being created (Deferred Item: NewBlueprint).
+[2022.12.07-05.55.06:485][262]LogSlate: Warning: Ignoring SetUserFocus because it's not an active modal Window (user 0 not set to SAssetTileView [SAssetView.cpp(1644)].
+[2022.12.07-05.55.06:485][262]LogContentBrowser: Attempting asset rename: NewBlueprint -> MyPla
+[2022.12.07-05.55.06:488][262]LogContentBrowser: End creating deferred item NewBlueprint
+[2022.12.07-05.55.06:553][262]LogUObjectHash: Compacting FUObjectHashTables data took   1.24ms
+[2022.12.07-05.55.06:556][262]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/MapAmaya/Blockout/BlockOut/3/II/8D5TA1FPSRZB7ZZ8SQBXA0_Auto3
+[2022.12.07-05.55.06:556][262]LogSavePackage: Moving 'C:/Users/Amaya/Desktop/FinalYearProject/PurrfectBrews/PurrfectBrews/Saved/8D5TA1FPSRZB7ZZ8SQBXA0_Auto3C0F5C0904F9301FED8B737B2798F4951.tmp' to 'C:/Users/Amaya/Desktop/FinalYearProject/PurrfectBrews/PurrfectBrews/Saved/Autosaves/Game/__ExternalActors__/MapAmaya/Blockout/BlockOut/3/II/8D5TA1FPSRZB7ZZ8SQBXA0_Auto3.uasset'
+[2022.12.07-05.55.06:557][262]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/MapAmaya/Blockout/BlockOut' took 0.061
+[2022.12.07-05.55.06:557][262]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.061
+[2022.12.07-05.55.06:557][262]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/MapAmaya/Character/BP_ThirdCharacter] ([2] browsable assets)...
+[2022.12.07-05.55.06:572][262]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/MapAmaya/Character/BP_ThirdCharacter.BP_ThirdCharacter]
+[2022.12.07-05.55.06:572][262]OBJ SavePackage: Finished generating thumbnails for package [/Game/MapAmaya/Character/BP_ThirdCharacter]
+[2022.12.07-05.55.06:586][262]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/MapAmaya/Character/BP_ThirdCharacter_Auto3
+[2022.12.07-05.55.06:587][262]LogSavePackage: Moving 'C:/Users/Amaya/Desktop/FinalYearProject/PurrfectBrews/PurrfectBrews/Saved/BP_ThirdCharacter_Auto32352FFDF44271978D800359CC6438592.tmp' to 'C:/Users/Amaya/Desktop/FinalYearProject/PurrfectBrews/PurrfectBrews/Saved/Autosaves/Game/MapAmaya/Character/BP_ThirdCharacter_Auto3.uasset'
+[2022.12.07-05.55.06:587][262]LogFileHelpers: Auto-saving content packages took 0.030
+[2022.12.07-05.55.09:342][522]LogSlateStyle: Warning: Unable to find Slate Widget Style 'Window.Buttons.Close'. Using FButtonStyle defaults instead.
+[2022.12.07-05.55.09:342][522]LogSlateStyle: Warning: Unable to find Slate Widget Style 'Window.Buttons.Close'. Using FButtonStyle defaults instead.
+[2022.12.07-05.55.18:177][397]LogContentBrowser: Attempting asset rename: MyPla -> MyPlayerControllerTesting
+[2022.12.07-05.55.18:189][397]LogMetaData: Removing '/Game/MapAmaya/Character/MyPlayerControllerTesting.MyPlayerControllerTesting:UserConstructionScript.K2Node_FunctionEntry_0' ref from Metadata '/Game/MapAmaya/Character/MyPla.PackageMetaData'
+[2022.12.07-05.55.18:189][397]LogMetaData: Removing '/Game/MapAmaya/Character/MyPlayerControllerTesting.SKEL_MyPlayerControllerTesting_C:UserConstructionScript' ref from Metadata '/Game/MapAmaya/Character/MyPla.PackageMetaData'
+[2022.12.07-05.55.18:189][397]LogMetaData: Removing '/Game/MapAmaya/Character/MyPlayerControllerTesting.SKEL_MyPlayerControllerTesting_C' ref from Metadata '/Game/MapAmaya/Character/MyPla.PackageMetaData'
+[2022.12.07-05.55.18:189][397]LogMetaData: Removing '/Game/MapAmaya/Character/MyPlayerControllerTesting.MyPlayerControllerTesting_C' ref from Metadata '/Game/MapAmaya/Character/MyPla.PackageMetaData'
+[2022.12.07-05.55.18:189][397]LogMetaData: Removing '/Game/MapAmaya/Character/MyPlayerControllerTesting.MyPlayerControllerTesting:EventGraph.K2Node_Event_0' ref from Metadata '/Game/MapAmaya/Character/MyPla.PackageMetaData'
+[2022.12.07-05.55.18:189][397]LogMetaData: Removing '/Game/MapAmaya/Character/MyPlayerControllerTesting.MyPlayerControllerTesting:EventGraph.K2Node_Event_1' ref from Metadata '/Game/MapAmaya/Character/MyPla.PackageMetaData'
+[2022.12.07-05.55.18:235][397]LogSavePackage: Moving output files for package: /Game/MapAmaya/Character/MyPlayerControllerTesting
+[2022.12.07-05.55.18:235][397]LogSavePackage: Moving 'C:/Users/Amaya/Desktop/FinalYearProject/PurrfectBrews/PurrfectBrews/Saved/MyPlayerControllerTestingC2E2C17F402CCFE27FC01785B9A09C14.tmp' to 'C:/Users/Amaya/Desktop/FinalYearProject/PurrfectBrews/PurrfectBrews/Content/MapAmaya/Character/MyPlayerControllerTesting.uasset'
+[2022.12.07-05.55.18:295][397]LogUObjectHash: Compacting FUObjectHashTables data took   1.11ms
+[2022.12.07-05.55.18:339][397]LogUObjectHash: Compacting FUObjectHashTables data took   1.26ms
+[2022.12.07-05.55.18:383][397]LogUObjectHash: Compacting FUObjectHashTables data took   0.53ms
+[2022.12.07-05.55.18:389][397]AssetCheck: New page: Asset Save: MyPlayerControllerTesting
+[2022.12.07-05.55.18:389][397]LogContentValidation: Display: Validating Blueprint /Game/MapAmaya/Character/MyPlayerControllerTesting.MyPlayerControllerTesting
+[2022.12.07-05.55.22:976][510]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/MapAmaya/Character/MyPlayerControllerTesting.MyPlayerControllerTesting
+[2022.12.07-05.55.22:976][510]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.12.07-05.55.23:256][510]LogViewport: Scene viewport resized to 1502x981, mode Windowed.
+[2022.12.07-05.55.55:705][964]LogWorld: UWorld::CleanupWorld for World_20, bSessionEnded=true, bCleanupResources=true
+[2022.12.07-05.55.55:705][964]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.12.07-05.56.50:191][405]LogSlateStyle: Warning: Unable to find Slate Widget Style 'Window.Buttons.Close'. Using FButtonStyle defaults instead.
+[2022.12.07-05.56.50:191][405]LogSlateStyle: Warning: Unable to find Slate Widget Style 'Window.Buttons.Close'. Using FButtonStyle defaults instead.
+[2022.12.07-05.56.51:450][538]LogUObjectHash: Compacting FUObjectHashTables data took   1.38ms
+[2022.12.07-05.56.52:676][538]LogSlate: Window 'Delete Assets' being destroyed
+[2022.12.07-05.56.52:767][538]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2022.12.07-05.56.52:768][538]LogWorld: UWorld::CleanupWorld for World_23, bSessionEnded=true, bCleanupResources=true
+[2022.12.07-05.56.52:768][538]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.12.07-05.56.52:992][538]LogUObjectGlobals: Force Deleting 1 Package(s):
+	Asset Name: /Game/MapAmaya/Character/MyPlayerControllerTesting.MyPlayerControllerTesting
+	Asset Type: Blueprint
+[2022.12.07-05.56.53:329][538]LogUObjectHash: Compacting FUObjectHashTables data took   1.21ms
+[2022.12.07-05.56.53:371][538]LogUObjectHash: Compacting FUObjectHashTables data took   1.09ms
+[2022.12.07-05.56.53:411][538]LogUObjectHash: Compacting FUObjectHashTables data took   0.59ms
+[2022.12.07-05.57.00:457][994]LogEditorClassViewer: Warning: Class /Engine/Tutorial/InWorldBlueprintEditing/TutorialAssets/IWBE_Blutility.IWBE_Blutility_C has parent /Script/Blutility.PlacedEditorUtilityBase, but this parent is not found. The Class will not be shown in ClassViewer.
+[2022.12.07-05.57.36:696][627]BlueprintLog: New page: Compile BP_ThirdCharacter
+[2022.12.07-05.57.36:834][627]LogUObjectHash: Compacting FUObjectHashTables data took   1.18ms
+[2022.12.07-05.57.37:361][665]LogSavePackage: Moving output files for package: /Game/MapAmaya/Character/BP_ThirdCharacter
+[2022.12.07-05.57.37:362][665]LogSavePackage: Moving 'C:/Users/Amaya/Desktop/FinalYearProject/PurrfectBrews/PurrfectBrews/Saved/BP_ThirdCharacter0E637E9F4216401B199499A757943A58.tmp' to 'C:/Users/Amaya/Desktop/FinalYearProject/PurrfectBrews/PurrfectBrews/Content/MapAmaya/Character/BP_ThirdCharacter.uasset'
+[2022.12.07-05.57.37:373][665]AssetCheck: New page: Asset Save: BP_ThirdCharacter
+[2022.12.07-05.57.37:373][665]LogContentValidation: Display: Validating Blueprint /Game/MapAmaya/Character/BP_ThirdCharacter.BP_ThirdCharacter
+[2022.12.07-05.58.06:822][180]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2022.12.07-05.58.06:822][180]LogWorld: UWorld::CleanupWorld for World_1, bSessionEnded=true, bCleanupResources=true
+[2022.12.07-05.58.06:822][180]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.12.07-05.58.06:909][181]LogViewport: Scene viewport resized to 407x234, mode Windowed.
+[2022.12.07-05.58.08:163][284]LogWorld: UWorld::CleanupWorld for World_7, bSessionEnded=true, bCleanupResources=true
+[2022.12.07-05.58.08:163][284]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.12.07-05.58.09:714][419]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2022.12.07-05.58.09:714][419]LogWorld: UWorld::CleanupWorld for World_11, bSessionEnded=true, bCleanupResources=true
+[2022.12.07-05.58.09:714][419]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.12.07-05.58.10:217][458]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2022.12.07-05.58.10:217][458]LogWorld: UWorld::CleanupWorld for World_14, bSessionEnded=true, bCleanupResources=true
+[2022.12.07-05.58.10:217][458]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.12.07-05.58.13:144][704]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/MapAmaya/Inventory/InventoryUI/HUD.HUD
+[2022.12.07-05.58.13:146][704]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.12.07-05.58.13:158][704]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.12.07-05.58.13:185][704]LogSlate: Warning: The command 'UMGEditor.OpenAnimDrawer' has the same default chord as 'EditorViewport.Next' [Ctrl+Shift+Space Bar]
+[2022.12.07-05.58.13:452][704]LogSlateStyle: Warning: Unable to find Slate Widget Style 'None'. Using FToolbarStyle defaults instead.
+[2022.12.07-05.58.13:452][704]LogSlateStyle: Warning: Unable to find Slate Widget Style 'None'. Using FToolbarStyle defaults instead.
+[2022.12.07-05.58.13:876][704]LogSlateStyle: Warning: Missing Resource from 'CoreStyle' Style: 'Unable to find SlateColor 'Foreground'.'
+[2022.12.07-05.58.16:796][931]LogSlate: Window 'HUD' being destroyed
+[2022.12.07-05.58.56:900][332]BlueprintLog: New page: Compile HUD
+[2022.12.07-05.58.57:250][332]LogUObjectHash: Compacting FUObjectHashTables data took   1.46ms
+[2022.12.07-05.58.57:714][373]LogSavePackage: Moving output files for package: /Game/MapAmaya/Inventory/InventoryUI/HUD
+[2022.12.07-05.58.57:715][373]LogSavePackage: Moving 'C:/Users/Amaya/Desktop/FinalYearProject/PurrfectBrews/PurrfectBrews/Saved/HUDBCEFE7584562FC4B80BDF5911BC86943.tmp' to 'C:/Users/Amaya/Desktop/FinalYearProject/PurrfectBrews/PurrfectBrews/Content/MapAmaya/Inventory/InventoryUI/HUD.uasset'
+[2022.12.07-05.58.57:726][373]AssetCheck: New page: Asset Save: HUD
+[2022.12.07-05.58.57:726][373]LogContentValidation: Display: Validating WidgetBlueprint /Game/MapAmaya/Inventory/InventoryUI/HUD.HUD
+[2022.12.07-05.59.04:851][994]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/MapAmaya/Inventory/InventoryUI/InventorySlot.InventorySlot
+[2022.12.07-05.59.04:851][994]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.12.07-05.59.04:864][994]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.12.07-05.59.05:088][994]LogSlateStyle: Warning: Unable to find Slate Widget Style 'None'. Using FToolbarStyle defaults instead.
+[2022.12.07-05.59.05:088][994]LogSlateStyle: Warning: Unable to find Slate Widget Style 'None'. Using FToolbarStyle defaults instead.
+[2022.12.07-06.00.42:036][736]LogSlate: Window 'Color Picker' being destroyed
+[2022.12.07-06.03.27:522][961]LogSlate: Window 'Color Picker' being destroyed
+[2022.12.07-06.05.24:146][844]BlueprintLog: New page: Compile InventorySlot
+[2022.12.07-06.05.24:263][844]LogUObjectHash: Compacting FUObjectHashTables data took   1.41ms
+[2022.12.07-06.05.24:666][880]LogSavePackage: Moving output files for package: /Game/MapAmaya/Inventory/InventoryUI/InventorySlot
+[2022.12.07-06.05.24:666][880]LogSavePackage: Moving 'C:/Users/Amaya/Desktop/FinalYearProject/PurrfectBrews/PurrfectBrews/Saved/InventorySlotABDEBB724FA6C19FE6CE15B6D23DC74C.tmp' to 'C:/Users/Amaya/Desktop/FinalYearProject/PurrfectBrews/PurrfectBrews/Content/MapAmaya/Inventory/InventoryUI/InventorySlot.uasset'
+[2022.12.07-06.05.24:677][880]AssetCheck: New page: Asset Save: InventorySlot
+[2022.12.07-06.05.24:677][880]LogContentValidation: Display: Validating WidgetBlueprint /Game/MapAmaya/Inventory/InventoryUI/InventorySlot.InventorySlot
+[2022.12.07-06.05.41:177][776]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/MapAmaya/Inventory/InventoryUI/InventoryWindow.InventoryWindow
+[2022.12.07-06.05.41:178][776]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.12.07-06.05.41:190][776]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.12.07-06.05.41:392][776]LogSlateStyle: Warning: Unable to find Slate Widget Style 'None'. Using FToolbarStyle defaults instead.
+[2022.12.07-06.05.41:392][776]LogSlateStyle: Warning: Unable to find Slate Widget Style 'None'. Using FToolbarStyle defaults instead.
+[2022.12.07-06.06.45:590][200]LogSlate: Window 'Color Picker' being destroyed
+[2022.12.07-06.08.37:733][225]BlueprintLog: New page: Compile InventoryWindow
+[2022.12.07-06.08.37:800][225]LogUObjectHash: Compacting FUObjectHashTables data took   1.46ms
+[2022.12.07-06.08.38:293][264]LogSavePackage: Moving output files for package: /Game/MapAmaya/Inventory/InventoryUI/InventoryWindow
+[2022.12.07-06.08.38:294][264]LogSavePackage: Moving 'C:/Users/Amaya/Desktop/FinalYearProject/PurrfectBrews/PurrfectBrews/Saved/InventoryWindowB02570A3424B4CD07DA43A9C591752F6.tmp' to 'C:/Users/Amaya/Desktop/FinalYearProject/PurrfectBrews/PurrfectBrews/Content/MapAmaya/Inventory/InventoryUI/InventoryWindow.uasset'
+[2022.12.07-06.08.38:305][264]AssetCheck: New page: Asset Save: InventoryWindow
+[2022.12.07-06.08.38:305][264]LogContentValidation: Display: Validating WidgetBlueprint /Game/MapAmaya/Inventory/InventoryUI/InventoryWindow.InventoryWindow
+[2022.12.07-06.09.00:050][911]LogSlate: Took 0.049110 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/DroidSansFallback.ttf' (3848K)
+[2022.12.07-06.09.55:436][555]LogUObjectHash: Compacting FUObjectHashTables data took   1.12ms
+[2022.12.07-06.09.55:439][555]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/MapAmaya/Blockout/BlockOut/3/II/8D5TA1FPSRZB7ZZ8SQBXA0_Auto4
+[2022.12.07-06.09.55:440][555]LogSavePackage: Moving 'C:/Users/Amaya/Desktop/FinalYearProject/PurrfectBrews/PurrfectBrews/Saved/8D5TA1FPSRZB7ZZ8SQBXA0_Auto4F88AD71C46EFC55D5509B0AD4BFA002F.tmp' to 'C:/Users/Amaya/Desktop/FinalYearProject/PurrfectBrews/PurrfectBrews/Saved/Autosaves/Game/__ExternalActors__/MapAmaya/Blockout/BlockOut/3/II/8D5TA1FPSRZB7ZZ8SQBXA0_Auto4.uasset'
+[2022.12.07-06.09.55:440][555]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/MapAmaya/Blockout/BlockOut' took 0.053
+[2022.12.07-06.09.55:440][555]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.053
+[2022.12.07-06.09.55:441][555]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/MapAmaya/Inventory/InventoryUI/InventoryWindow] ([2] browsable assets)...
+[2022.12.07-06.09.55:442][555]OBJ SavePackage:     Rendered thumbnail for [WidgetBlueprint /Game/MapAmaya/Inventory/InventoryUI/InventoryWindow.InventoryWindow]
+[2022.12.07-06.09.55:442][555]OBJ SavePackage: Finished generating thumbnails for package [/Game/MapAmaya/Inventory/InventoryUI/InventoryWindow]
+[2022.12.07-06.09.55:445][555]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/MapAmaya/Inventory/InventoryUI/InventoryWindow_Auto4
+[2022.12.07-06.09.55:445][555]LogSavePackage: Moving 'C:/Users/Amaya/Desktop/FinalYearProject/PurrfectBrews/PurrfectBrews/Saved/InventoryWindow_Auto450E1D2DA4B8C0462E18ECCB444C38DDA.tmp' to 'C:/Users/Amaya/Desktop/FinalYearProject/PurrfectBrews/PurrfectBrews/Saved/Autosaves/Game/MapAmaya/Inventory/InventoryUI/InventoryWindow_Auto4.uasset'
+[2022.12.07-06.09.55:445][555]LogFileHelpers: Auto-saving content packages took 0.005
+[2022.12.07-06.10.29:232][ 45]BlueprintLog: New page: Compile InventoryWindow
+[2022.12.07-06.10.29:292][ 45]LogUObjectHash: Compacting FUObjectHashTables data took   1.59ms
+[2022.12.07-06.10.29:998][112]LogSavePackage: Moving output files for package: /Game/MapAmaya/Inventory/InventoryUI/InventoryWindow
+[2022.12.07-06.10.29:998][112]LogSavePackage: Moving 'C:/Users/Amaya/Desktop/FinalYearProject/PurrfectBrews/PurrfectBrews/Saved/InventoryWindow7BAAF46545BB362C755A819AB5976774.tmp' to 'C:/Users/Amaya/Desktop/FinalYearProject/PurrfectBrews/PurrfectBrews/Content/MapAmaya/Inventory/InventoryUI/InventoryWindow.uasset'
+[2022.12.07-06.10.30:008][112]AssetCheck: New page: Asset Save: InventoryWindow
+[2022.12.07-06.10.30:008][112]LogContentValidation: Display: Validating WidgetBlueprint /Game/MapAmaya/Inventory/InventoryUI/InventoryWindow.InventoryWindow
+[2022.12.07-06.11.29:343][122]BlueprintLog: New page: Compile InventoryWindow
+[2022.12.07-06.11.29:404][122]LogUObjectHash: Compacting FUObjectHashTables data took   1.27ms
+[2022.12.07-06.11.30:399][227]LogSavePackage: Moving output files for package: /Game/MapAmaya/Inventory/InventoryUI/InventoryWindow
+[2022.12.07-06.11.30:399][227]LogSavePackage: Moving 'C:/Users/Amaya/Desktop/FinalYearProject/PurrfectBrews/PurrfectBrews/Saved/InventoryWindowA9050F4D48A79A61C717DB87778C0691.tmp' to 'C:/Users/Amaya/Desktop/FinalYearProject/PurrfectBrews/PurrfectBrews/Content/MapAmaya/Inventory/InventoryUI/InventoryWindow.uasset'
+[2022.12.07-06.11.30:410][227]AssetCheck: New page: Asset Save: InventoryWindow
+[2022.12.07-06.11.30:410][227]LogContentValidation: Display: Validating WidgetBlueprint /Game/MapAmaya/Inventory/InventoryUI/InventoryWindow.InventoryWindow
+[2022.12.07-06.11.33:135][353]LogSlateStyle: Warning: Unable to find Slate Widget Style 'None'. Using FToolbarStyle defaults instead.
+[2022.12.07-06.11.33:135][353]LogSlateStyle: Warning: Unable to find Slate Widget Style 'None'. Using FToolbarStyle defaults instead.
+[2022.12.07-06.12.12:778][551]BlueprintLog: New page: Compile InventoryWindow
+[2022.12.07-06.12.12:846][551]LogUObjectHash: Compacting FUObjectHashTables data took   1.14ms
+[2022.12.07-06.12.13:534][620]LogSavePackage: Moving output files for package: /Game/MapAmaya/Inventory/InventoryUI/InventoryWindow
+[2022.12.07-06.12.13:535][620]LogSavePackage: Moving 'C:/Users/Amaya/Desktop/FinalYearProject/PurrfectBrews/PurrfectBrews/Saved/InventoryWindowCECD9902418EA39597DC598E4920E48D.tmp' to 'C:/Users/Amaya/Desktop/FinalYearProject/PurrfectBrews/PurrfectBrews/Content/MapAmaya/Inventory/InventoryUI/InventoryWindow.uasset'
+[2022.12.07-06.12.13:545][620]AssetCheck: New page: Asset Save: InventoryWindow
+[2022.12.07-06.12.13:545][620]LogContentValidation: Display: Validating WidgetBlueprint /Game/MapAmaya/Inventory/InventoryUI/InventoryWindow.InventoryWindow
+[2022.12.07-06.14.29:279][ 30]LogEditorClassViewer: Warning: Class /Engine/Tutorial/InWorldBlueprintEditing/TutorialAssets/IWBE_Blutility.IWBE_Blutility_C has parent /Script/Blutility.PlacedEditorUtilityBase, but this parent is not found. The Class will not be shown in ClassViewer.
+[2022.12.07-06.15.27:636][333]BlueprintLog: New page: Compile InventoryWindow
+[2022.12.07-06.15.27:706][333]LogUObjectHash: Compacting FUObjectHashTables data took   1.45ms
+[2022.12.07-06.15.28:228][384]LogSavePackage: Moving output files for package: /Game/MapAmaya/Inventory/InventoryUI/InventoryWindow
+[2022.12.07-06.15.28:228][384]LogSavePackage: Moving 'C:/Users/Amaya/Desktop/FinalYearProject/PurrfectBrews/PurrfectBrews/Saved/InventoryWindowC498789648E80DE163AD6099ADECD25C.tmp' to 'C:/Users/Amaya/Desktop/FinalYearProject/PurrfectBrews/PurrfectBrews/Content/MapAmaya/Inventory/InventoryUI/InventoryWindow.uasset'
+[2022.12.07-06.15.28:239][384]AssetCheck: New page: Asset Save: InventoryWindow
+[2022.12.07-06.15.28:239][384]LogContentValidation: Display: Validating WidgetBlueprint /Game/MapAmaya/Inventory/InventoryUI/InventoryWindow.InventoryWindow
+[2022.12.07-06.17.46:108][219]LogDerivedDataCache: C:/Users/Amaya/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:03.226 and deleted 0 file(s) with total size 0 MiB.
+[2022.12.07-06.18.58:348][265]BlueprintLog: New page: Compile InventoryWindow
+[2022.12.07-06.18.58:431][265]LogUObjectHash: Compacting FUObjectHashTables data took   1.64ms
+[2022.12.07-06.18.58:986][319]LogSavePackage: Moving output files for package: /Game/MapAmaya/Inventory/InventoryUI/InventoryWindow
+[2022.12.07-06.18.58:986][319]LogSavePackage: Moving 'C:/Users/Amaya/Desktop/FinalYearProject/PurrfectBrews/PurrfectBrews/Saved/InventoryWindow72DCFC39432DECD2F27C229864520BE8.tmp' to 'C:/Users/Amaya/Desktop/FinalYearProject/PurrfectBrews/PurrfectBrews/Content/MapAmaya/Inventory/InventoryUI/InventoryWindow.uasset'
+[2022.12.07-06.18.58:998][319]AssetCheck: New page: Asset Save: InventoryWindow
+[2022.12.07-06.18.58:998][319]LogContentValidation: Display: Validating WidgetBlueprint /Game/MapAmaya/Inventory/InventoryUI/InventoryWindow.InventoryWindow
+[2022.12.07-06.19.13:252][610]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/MapAmaya/Inventory/InventoryComponent.InventoryComponent
+[2022.12.07-06.19.13:253][610]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.12.07-06.19.51:077][837]LogEditorClassViewer: Warning: Class /Engine/Tutorial/InWorldBlueprintEditing/TutorialAssets/IWBE_Blutility.IWBE_Blutility_C has parent /Script/Blutility.PlacedEditorUtilityBase, but this parent is not found. The Class will not be shown in ClassViewer.
+[2022.12.07-06.22.29:413][ 55]BlueprintLog: New page: Compile InventoryComponent
+[2022.12.07-06.22.29:418][ 55]LogBlueprint: Warning: [AssetLog] C:\Users\Amaya\Desktop\FinalYearProject\PurrfectBrews\PurrfectBrews\Content\MapAmaya\Inventory\InventoryComponent.uasset: [Compiler] 'BP Third Character' does not inherit from 'Player Controller' ( Cast To BP_ThirdCharacter  would always fail).
+[2022.12.07-06.22.29:507][ 55]LogUObjectHash: Compacting FUObjectHashTables data took   1.21ms
+[2022.12.07-06.22.29:939][ 68]LogSavePackage: Moving output files for package: /Game/MapAmaya/Inventory/InventoryComponent
+[2022.12.07-06.22.29:939][ 68]LogSavePackage: Moving 'C:/Users/Amaya/Desktop/FinalYearProject/PurrfectBrews/PurrfectBrews/Saved/InventoryComponent71B0E831446176595151A0ADEA95CD72.tmp' to 'C:/Users/Amaya/Desktop/FinalYearProject/PurrfectBrews/PurrfectBrews/Content/MapAmaya/Inventory/InventoryComponent.uasset'
+[2022.12.07-06.22.29:951][ 68]AssetCheck: New page: Asset Save: InventoryComponent
+[2022.12.07-06.22.29:951][ 68]LogContentValidation: Display: Validating Blueprint /Game/MapAmaya/Inventory/InventoryComponent.InventoryComponent
+[2022.12.07-06.23.44:692][126]LogEditorClassViewer: Warning: Class /Engine/Tutorial/InWorldBlueprintEditing/TutorialAssets/IWBE_Blutility.IWBE_Blutility_C has parent /Script/Blutility.PlacedEditorUtilityBase, but this parent is not found. The Class will not be shown in ClassViewer.
+[2022.12.07-06.24.36:260][476]LogUObjectHash: Compacting FUObjectHashTables data took   1.85ms
+[2022.12.07-06.24.36:266][476]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/MapAmaya/Blockout/BlockOut/3/II/8D5TA1FPSRZB7ZZ8SQBXA0_Auto5
+[2022.12.07-06.24.36:267][476]LogSavePackage: Moving 'C:/Users/Amaya/Desktop/FinalYearProject/PurrfectBrews/PurrfectBrews/Saved/8D5TA1FPSRZB7ZZ8SQBXA0_Auto5D57F62E94F29A85A951FEFB11E1863B4.tmp' to 'C:/Users/Amaya/Desktop/FinalYearProject/PurrfectBrews/PurrfectBrews/Saved/Autosaves/Game/__ExternalActors__/MapAmaya/Blockout/BlockOut/3/II/8D5TA1FPSRZB7ZZ8SQBXA0_Auto5.uasset'
+[2022.12.07-06.24.36:267][476]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/MapAmaya/Blockout/BlockOut' took 0.059
+[2022.12.07-06.24.36:267][476]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.059
+[2022.12.07-06.24.36:268][476]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/MapAmaya/Inventory/InventoryComponent] ([2] browsable assets)...
+[2022.12.07-06.24.36:268][476]OBJ SavePackage: Finished generating thumbnails for package [/Game/MapAmaya/Inventory/InventoryComponent]
+[2022.12.07-06.24.36:271][476]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/MapAmaya/Inventory/InventoryComponent_Auto5
+[2022.12.07-06.24.36:271][476]LogSavePackage: Moving 'C:/Users/Amaya/Desktop/FinalYearProject/PurrfectBrews/PurrfectBrews/Saved/InventoryComponent_Auto5D97A0F474C5218A16F912493EB151AAE.tmp' to 'C:/Users/Amaya/Desktop/FinalYearProject/PurrfectBrews/PurrfectBrews/Saved/Autosaves/Game/MapAmaya/Inventory/InventoryComponent_Auto5.uasset'
+[2022.12.07-06.24.36:277][476]LogFileHelpers: Auto-saving content packages took 0.010
+[2022.12.07-06.25.18:945][650]BlueprintLog: New page: Compile InventoryComponent
+[2022.12.07-06.25.18:949][650]LogBlueprint: Warning: [AssetLog] C:\Users\Amaya\Desktop\FinalYearProject\PurrfectBrews\PurrfectBrews\Content\MapAmaya\Inventory\InventoryComponent.uasset: [Compiler] 'BP Third Character' does not inherit from 'Player Controller' ( Cast To BP_ThirdCharacter  would always fail).
+[2022.12.07-06.25.19:031][650]LogUObjectHash: Compacting FUObjectHashTables data took   1.21ms
+[2022.12.07-06.25.20:010][754]LogSavePackage: Moving output files for package: /Game/MapAmaya/Inventory/InventoryComponent
+[2022.12.07-06.25.20:010][754]LogSavePackage: Moving 'C:/Users/Amaya/Desktop/FinalYearProject/PurrfectBrews/PurrfectBrews/Saved/InventoryComponent796F521640C7E05FA0AEB0A8E8926CE9.tmp' to 'C:/Users/Amaya/Desktop/FinalYearProject/PurrfectBrews/PurrfectBrews/Content/MapAmaya/Inventory/InventoryComponent.uasset'
+[2022.12.07-06.25.20:021][754]AssetCheck: New page: Asset Save: InventoryComponent
+[2022.12.07-06.25.20:021][754]LogContentValidation: Display: Validating Blueprint /Game/MapAmaya/Inventory/InventoryComponent.InventoryComponent
+[2022.12.07-06.25.31:145][ 74]LogUObjectHash: Warning: Ambiguous path search, could be ControlRigBlueprintGeneratedClass /Game/Characters/Mannequins/Rigs/CR_Mannequin_BasicFootIK.CR_Mannequin_BasicFootIK_C or ControlRigBlueprintGeneratedClass /Game/AllStarterContent/Characters/Mannequins/Rigs/CR_Mannequin_BasicFootIK.CR_Mannequin_BasicFootIK_C
+[2022.12.07-06.25.31:145][ 74]LogUObjectHash: Warning: Ambiguous path search, could be ControlRigBlueprintGeneratedClass /Game/Characters/Mannequins/Rigs/CR_Mannequin_BasicFootIK.SKEL_CR_Mannequin_BasicFootIK_C or ControlRigBlueprintGeneratedClass /Game/AllStarterContent/Characters/Mannequins/Rigs/CR_Mannequin_BasicFootIK.SKEL_CR_Mannequin_BasicFootIK_C
+[2022.12.07-06.25.31:146][ 74]LogUObjectHash: Warning: Ambiguous path search, could be BlueprintGeneratedClass /Game/AllStarterContent/ThirdPerson/Blueprints/BP_ThirdPersonGameMode.BP_ThirdPersonGameMode_C or BlueprintGeneratedClass /Game/MapAmaya/Character/BP_ThirdPersonGameMode.BP_ThirdPersonGameMode_C
+[2022.12.07-06.25.31:146][ 74]LogUObjectHash: Warning: Ambiguous path search, could be BlueprintGeneratedClass /Game/AllStarterContent/ThirdPerson/Blueprints/BP_ThirdPersonGameMode.SKEL_BP_ThirdPersonGameMode_C or BlueprintGeneratedClass /Game/MapAmaya/Character/BP_ThirdPersonGameMode.SKEL_BP_ThirdPersonGameMode_C
+[2022.12.07-06.25.31:153][ 74]LogUObjectHash: Warning: Ambiguous path search, could be RigVMMemoryStorageGeneratorClass /Game/AllStarterContent/Characters/Mannequins/Rigs/CR_Mannequin_BasicFootIK.RigVMMemory_Work or RigVMMemoryStorageGeneratorClass /Game/Characters/Mannequins/Rigs/CR_Mannequin_BasicFootIK.RigVMMemory_Work
+[2022.12.07-06.25.31:153][ 74]LogUObjectHash: Warning: Ambiguous path search, could be RigVMMemoryStorageGeneratorClass /Game/AllStarterContent/Characters/Mannequins/Rigs/CR_Mannequin_BasicFootIK.RigVMMemory_Literal or RigVMMemoryStorageGeneratorClass /Game/Characters/Mannequins/Rigs/CR_Mannequin_BasicFootIK.RigVMMemory_Literal
+[2022.12.07-06.25.31:562][ 79]LogSkeletalMesh: Display: Waiting for skeletal meshes to be ready 0/1 (SKM_Manny_Simple) ...
+[2022.12.07-06.26.05:011][927]BlueprintLog: New page: Compile InventoryComponent
+[2022.12.07-06.26.05:012][927]LogBlueprint: Warning: [AssetLog] C:\Users\Amaya\Desktop\FinalYearProject\PurrfectBrews\PurrfectBrews\Content\MapAmaya\Inventory\InventoryComponent.uasset: [Compiler] 'BP Third Character' does not inherit from 'Player Controller' ( Cast To BP_ThirdCharacter  would always fail).
+[2022.12.07-06.26.05:083][927]LogUObjectHash: Compacting FUObjectHashTables data took   1.51ms
+[2022.12.07-06.26.06:116][ 37]LogSavePackage: Moving output files for package: /Game/MapAmaya/Inventory/InventoryComponent
+[2022.12.07-06.26.06:116][ 37]LogSavePackage: Moving 'C:/Users/Amaya/Desktop/FinalYearProject/PurrfectBrews/PurrfectBrews/Saved/InventoryComponent452D71924E9676352EF3318D90851B82.tmp' to 'C:/Users/Amaya/Desktop/FinalYearProject/PurrfectBrews/PurrfectBrews/Content/MapAmaya/Inventory/InventoryComponent.uasset'
+[2022.12.07-06.26.06:128][ 37]AssetCheck: New page: Asset Save: InventoryComponent
+[2022.12.07-06.26.06:128][ 37]LogContentValidation: Display: Validating Blueprint /Game/MapAmaya/Inventory/InventoryComponent.InventoryComponent
+[2022.12.07-06.26.46:006][752]LogEditorClassViewer: Warning: Class /Engine/Tutorial/InWorldBlueprintEditing/TutorialAssets/IWBE_Blutility.IWBE_Blutility_C has parent /Script/Blutility.PlacedEditorUtilityBase, but this parent is not found. The Class will not be shown in ClassViewer.
+[2022.12.07-06.26.47:568][752]LogSlate: Window 'Pick Parent Class' being destroyed
+[2022.12.07-06.26.47:576][752]LogContentBrowser: Deferred new asset file creation: NewBlueprint
+[2022.12.07-06.26.47:581][752]LogContentBrowser: Creating deferred item: NewBlueprint
+[2022.12.07-06.26.47:594][753]LogContentBrowser: Renaming the item being created (Deferred Item: NewBlueprint).
+[2022.12.07-06.26.52:242][154]LogContentBrowser: Attempting asset rename: NewBlueprint -> MyPlayerController
+[2022.12.07-06.26.52:245][154]LogContentBrowser: End creating deferred item NewBlueprint
+[2022.12.07-06.26.54:283][334]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/MapAmaya/Inventory/MyPlayerController.MyPlayerController
+[2022.12.07-06.26.54:283][334]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.12.07-06.26.54:522][334]LogViewport: Scene viewport resized to 1502x981, mode Windowed.
+[2022.12.07-06.27.13:645][543]BlueprintLog: New page: Compile MyPlayerController
+[2022.12.07-06.27.13:646][543]LogBlueprint: Warning: [AssetLog] /Game/MapAmaya/Inventory/MyPlayerController.MyPlayerController (no disk path found): [Compiler] Could not find a variable named "HUDWidget" in 'MyPlayerController_C'.
+Make sure 'MyPlayerController_C' has been compiled for  Set HUDWidget
+[2022.12.07-06.27.13:646][543]LogBlueprint: Error: [AssetLog] /Game/MapAmaya/Inventory/MyPlayerController.MyPlayerController (no disk path found): [Compiler] This blueprint (self) is not a UserWidget, therefore ' Target ' must have a connection.
+[2022.12.07-06.27.13:647][543]LogBlueprint: Error: [AssetLog] /Game/MapAmaya/Inventory/MyPlayerController.MyPlayerController (no disk path found): [Compiler] The property associated with  HUDWidget  could not be found in '/Game/MapAmaya/Inventory/MyPlayerController.MyPlayerController_C'
+[2022.12.07-06.27.13:717][543]LogUObjectHash: Compacting FUObjectHashTables data took   1.20ms
+[2022.12.07-06.27.47:273][695]BlueprintLog: New page: Compile MyPlayerController
+[2022.12.07-06.27.47:341][695]LogUObjectHash: Compacting FUObjectHashTables data took   1.20ms
+[2022.12.07-06.27.47:881][746]LogSavePackage: Moving output files for package: /Game/MapAmaya/Inventory/MyPlayerController
+[2022.12.07-06.27.47:881][746]LogSavePackage: Moving 'C:/Users/Amaya/Desktop/FinalYearProject/PurrfectBrews/PurrfectBrews/Saved/MyPlayerControllerFE66837F453F08FA05D2AFB9FB6392E5.tmp' to 'C:/Users/Amaya/Desktop/FinalYearProject/PurrfectBrews/PurrfectBrews/Content/MapAmaya/Inventory/MyPlayerController.uasset'
+[2022.12.07-06.27.47:893][746]AssetCheck: New page: Asset Save: MyPlayerController
+[2022.12.07-06.27.47:893][746]LogContentValidation: Display: Validating Blueprint /Game/MapAmaya/Inventory/MyPlayerController.MyPlayerController
+[2022.12.07-06.28.32:968][947]BlueprintLog: New page: Compile InventoryComponent
+[2022.12.07-06.28.33:058][947]LogUObjectHash: Compacting FUObjectHashTables data took   1.18ms
+[2022.12.07-06.28.33:470][984]LogSavePackage: Moving output files for package: /Game/MapAmaya/Inventory/InventoryComponent
+[2022.12.07-06.28.33:470][984]LogSavePackage: Moving 'C:/Users/Amaya/Desktop/FinalYearProject/PurrfectBrews/PurrfectBrews/Saved/InventoryComponent496C87F24F51D0E55DE7D5A21EA9B13F.tmp' to 'C:/Users/Amaya/Desktop/FinalYearProject/PurrfectBrews/PurrfectBrews/Content/MapAmaya/Inventory/InventoryComponent.uasset'
+[2022.12.07-06.28.33:481][984]AssetCheck: New page: Asset Save: InventoryComponent
+[2022.12.07-06.28.33:481][984]LogContentValidation: Display: Validating Blueprint /Game/MapAmaya/Inventory/InventoryComponent.InventoryComponent
+[2022.12.07-06.29.33:017][ 77]LogSavePackage: Moving output files for package: /Game/MapAmaya/Character/BP_ThirdCharacter
+[2022.12.07-06.29.33:017][ 77]LogSavePackage: Moving 'C:/Users/Amaya/Desktop/FinalYearProject/PurrfectBrews/PurrfectBrews/Saved/BP_ThirdCharacter4F52AF834DC143678125159942CA523D.tmp' to 'C:/Users/Amaya/Desktop/FinalYearProject/PurrfectBrews/PurrfectBrews/Content/MapAmaya/Character/BP_ThirdCharacter.uasset'
+[2022.12.07-06.29.33:027][ 77]AssetCheck: New page: Asset Save: BP_ThirdCharacter
+[2022.12.07-06.29.33:027][ 77]LogContentValidation: Display: Validating Blueprint /Game/MapAmaya/Character/BP_ThirdCharacter.BP_ThirdCharacter
+[2022.12.07-06.29.33:668][152]BlueprintLog: New page: Compile BP_ThirdCharacter
+[2022.12.07-06.29.33:807][152]LogUObjectHash: Compacting FUObjectHashTables data took   1.70ms
+[2022.12.07-06.29.34:327][188]LogSavePackage: Moving output files for package: /Game/MapAmaya/Character/BP_ThirdCharacter
+[2022.12.07-06.29.34:327][188]LogSavePackage: Moving 'C:/Users/Amaya/Desktop/FinalYearProject/PurrfectBrews/PurrfectBrews/Saved/BP_ThirdCharacter812F6B2146A12BF60122E2A8714E69A6.tmp' to 'C:/Users/Amaya/Desktop/FinalYearProject/PurrfectBrews/PurrfectBrews/Content/MapAmaya/Character/BP_ThirdCharacter.uasset'
+[2022.12.07-06.29.34:338][188]AssetCheck: New page: Asset Save: BP_ThirdCharacter
+[2022.12.07-06.29.34:338][188]LogContentValidation: Display: Validating Blueprint /Game/MapAmaya/Character/BP_ThirdCharacter.BP_ThirdCharacter
+[2022.12.07-06.29.34:500][204]LogViewport: Scene viewport resized to 407x234, mode Windowed.
+[2022.12.07-06.29.35:567][281]LogDebuggerCommands: Repeating last play command: New Editor Window (PIE)
+[2022.12.07-06.29.35:573][281]LogWorldPartition: Display: GenerateStreaming started...
+[2022.12.07-06.29.35:573][281]LogWorldPartition: Display: GetPartitionedActors started...
+[2022.12.07-06.29.35:573][281]LogWorldPartition: Warning: Invalid world bounds, grid partitioning will use a runtime grid with 1 cell.
+[2022.12.07-06.29.35:573][281]LogWorldPartition: Display: ValidateSingleActorReferer started...
+[2022.12.07-06.29.35:573][281]LogWorldPartition: Display: ValidateSingleActorReferer took 0 us
+[2022.12.07-06.29.35:573][281]LogWorldPartition: Display: GetPartitionedActors took 41 us
+[2022.12.07-06.29.35:574][281]LogWorldPartition: Display: GenerateStreaming took 627 us
+[2022.12.07-06.29.35:574][281]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.12.07-06.29.35:574][281]PIE: New page: PIE session: BlockOut (Dec 7, 2022, 8:29:35 AM)
+[2022.12.07-06.29.35:574][281]LogPlayLevel: Creating play world package: /Game/MapAmaya/Blockout/UEDPIE_0_BlockOut
+[2022.12.07-06.29.35:611][281]LogWorldPartition: Initial Data Layer Effective States Activated() Loaded()
+[2022.12.07-06.29.35:620][281]LogPlayLevel: PIE: StaticDuplicateObject took: (0.045341s)
+[2022.12.07-06.29.35:620][281]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/MapAmaya/Blockout/BlockOut.BlockOut to /Game/MapAmaya/Blockout/UEDPIE_0_BlockOut.BlockOut (0.045390s)
+[2022.12.07-06.29.35:620][281]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.12.07-06.29.35:620][281]LogAIModule: Creating AISystem for world BlockOut
+[2022.12.07-06.29.35:621][281]LogWorldPartition: Display: WorldPartition initialize started...
+[2022.12.07-06.29.35:621][281]LogWorldPartition: UWorldPartition::Initialize(IsEditor=0, IsGame=0, IsCooking=0)
+[2022.12.07-06.29.35:631][281]LogWorldPartition: Display: WorldPartition initialize took 9 ms
+[2022.12.07-06.29.35:631][281]LogPlayLevel: PIE: World Init took: (0.011041s)
+[2022.12.07-06.29.35:680][281]LogUObjectHash: Compacting FUObjectHashTables data took   1.47ms
+[2022.12.07-06.29.35:682][281]LogAudio: Display: Creating Audio Device:                 Id: 7, Scope: Unique, Realtime: True
+[2022.12.07-06.29.35:682][281]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.12.07-06.29.35:682][281]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.12.07-06.29.35:682][281]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.12.07-06.29.35:682][281]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.12.07-06.29.35:682][281]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.12.07-06.29.35:682][281]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2022.12.07-06.29.35:682][281]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.12.07-06.29.35:682][281]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.12.07-06.29.35:682][281]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.12.07-06.29.35:682][281]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.12.07-06.29.35:682][281]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.12.07-06.29.35:684][281]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2022.12.07-06.29.35:695][281]LogAudioMixer: Display: Using Audio Hardware Device 24G2W1G4 (NVIDIA High Definition Audio)
+[2022.12.07-06.29.35:695][281]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.12.07-06.29.35:696][281]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.12.07-06.29.35:696][281]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.12.07-06.29.35:696][281]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=7
+[2022.12.07-06.29.35:696][281]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=7
+[2022.12.07-06.29.35:697][281]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=7
+[2022.12.07-06.29.35:697][281]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=7
+[2022.12.07-06.29.35:697][281]LogInit: FAudioDevice initialized.
+[2022.12.07-06.29.35:697][281]LogAudio: Display: Audio Device (ID: 7) registered with world 'BlockOut'.
+[2022.12.07-06.29.35:750][281]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.12.07-06.29.35:751][281]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2022.12.07-06.29.35:756][281]LogWorld: Bringing World /Game/MapAmaya/Blockout/UEDPIE_0_BlockOut.BlockOut up for play (max tick rate 0) at 2022.12.07-07.29.35
+[2022.12.07-06.29.35:757][281]LogWorld: Bringing up level for play took: 0.005719
+[2022.12.07-06.29.35:758][281]LogOnline: OSS: Created online subsystem instance for: :Context_38
+[2022.12.07-06.29.35:759][281]LogWorldPartition: New Streaming Source: PlayerController_0 -> Position: X=5870.000 Y=1430.000 Z=92.400
+[2022.12.07-06.29.35:759][281]LogWorldPartition: Warning: Invalid world bounds, grid partitioning will use a runtime grid with 1 cell.
+[2022.12.07-06.29.35:761][281]PIE: Server logged in
+[2022.12.07-06.29.35:763][281]PIE: Play in editor total start time 0.192 seconds.
+[2022.12.07-06.29.35:822][281]LogViewport: Scene viewport resized to 1914x1000, mode Windowed.
+[2022.12.07-06.29.44:637][326]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.12.07-06.29.44:637][326]LogWorld: BeginTearingDown for /Game/MapAmaya/Blockout/UEDPIE_0_BlockOut
+[2022.12.07-06.29.44:638][326]LogSlate: Window 'PurrfectBrews Preview [NetMode: Standalone]  (64-bit/SM5)' being destroyed
+[2022.12.07-06.29.44:643][326]LogWorld: UWorld::CleanupWorld for BlockOut, bSessionEnded=true, bCleanupResources=true
+[2022.12.07-06.29.44:644][326]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.12.07-06.29.44:670][326]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.12.07-06.29.44:676][326]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.12.07-06.29.44:727][326]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=7
+[2022.12.07-06.29.44:728][326]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=7
+[2022.12.07-06.29.44:735][326]LogUObjectHash: Compacting FUObjectHashTables data took   1.56ms
+[2022.12.07-06.29.44:800][327]LogPlayLevel: Display: Destroying online subsystem :Context_38
+[2022.12.07-06.29.44:808][327]LogViewport: Scene viewport resized to 407x234, mode Windowed.
+[2022.12.07-06.29.51:652][903]LogEditorClassViewer: Warning: Class /Engine/Tutorial/InWorldBlueprintEditing/TutorialAssets/IWBE_Blutility.IWBE_Blutility_C has parent /Script/Blutility.PlacedEditorUtilityBase, but this parent is not found. The Class will not be shown in ClassViewer.
+[2022.12.07-06.29.58:651][547]LogDebuggerCommands: Repeating last play command: New Editor Window (PIE)
+[2022.12.07-06.29.58:657][547]LogWorldPartition: Display: GenerateStreaming started...
+[2022.12.07-06.29.58:657][547]LogWorldPartition: Display: GetPartitionedActors started...
+[2022.12.07-06.29.58:657][547]LogWorldPartition: Warning: Invalid world bounds, grid partitioning will use a runtime grid with 1 cell.
+[2022.12.07-06.29.58:657][547]LogWorldPartition: Display: ValidateSingleActorReferer started...
+[2022.12.07-06.29.58:657][547]LogWorldPartition: Display: ValidateSingleActorReferer took 0 us
+[2022.12.07-06.29.58:657][547]LogWorldPartition: Display: GetPartitionedActors took 42 us
+[2022.12.07-06.29.58:658][547]LogWorldPartition: Display: GenerateStreaming took 636 us
+[2022.12.07-06.29.58:658][547]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.12.07-06.29.58:658][547]PIE: New page: PIE session: BlockOut (Dec 7, 2022, 8:29:58 AM)
+[2022.12.07-06.29.58:658][547]LogPlayLevel: Creating play world package: /Game/MapAmaya/Blockout/UEDPIE_0_BlockOut
+[2022.12.07-06.29.58:693][547]LogWorldPartition: Initial Data Layer Effective States Activated() Loaded()
+[2022.12.07-06.29.58:701][547]LogPlayLevel: PIE: StaticDuplicateObject took: (0.044246s)
+[2022.12.07-06.29.58:701][547]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/MapAmaya/Blockout/BlockOut.BlockOut to /Game/MapAmaya/Blockout/UEDPIE_0_BlockOut.BlockOut (0.044299s)
+[2022.12.07-06.29.58:701][547]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.12.07-06.29.58:702][547]LogAIModule: Creating AISystem for world BlockOut
+[2022.12.07-06.29.58:702][547]LogWorldPartition: Display: WorldPartition initialize started...
+[2022.12.07-06.29.58:703][547]LogWorldPartition: UWorldPartition::Initialize(IsEditor=0, IsGame=0, IsCooking=0)
+[2022.12.07-06.29.58:712][547]LogWorldPartition: Display: WorldPartition initialize took 9 ms
+[2022.12.07-06.29.58:712][547]LogPlayLevel: PIE: World Init took: (0.010724s)
+[2022.12.07-06.29.58:760][547]LogUObjectHash: Compacting FUObjectHashTables data took   1.12ms
+[2022.12.07-06.29.58:763][547]LogAudio: Display: Creating Audio Device:                 Id: 8, Scope: Unique, Realtime: True
+[2022.12.07-06.29.58:763][547]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.12.07-06.29.58:763][547]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.12.07-06.29.58:763][547]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.12.07-06.29.58:763][547]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.12.07-06.29.58:763][547]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.12.07-06.29.58:763][547]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2022.12.07-06.29.58:763][547]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.12.07-06.29.58:763][547]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.12.07-06.29.58:763][547]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.12.07-06.29.58:763][547]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.12.07-06.29.58:763][547]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.12.07-06.29.58:765][547]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2022.12.07-06.29.58:775][547]LogAudioMixer: Display: Using Audio Hardware Device 24G2W1G4 (NVIDIA High Definition Audio)
+[2022.12.07-06.29.58:776][547]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.12.07-06.29.58:776][547]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.12.07-06.29.58:776][547]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.12.07-06.29.58:776][547]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=8
+[2022.12.07-06.29.58:776][547]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=8
+[2022.12.07-06.29.58:777][547]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=8
+[2022.12.07-06.29.58:777][547]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=8
+[2022.12.07-06.29.58:777][547]LogInit: FAudioDevice initialized.
+[2022.12.07-06.29.58:777][547]LogAudio: Display: Audio Device (ID: 8) registered with world 'BlockOut'.
+[2022.12.07-06.29.58:821][547]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.12.07-06.29.58:821][547]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2022.12.07-06.29.58:826][547]LogWorld: Bringing World /Game/MapAmaya/Blockout/UEDPIE_0_BlockOut.BlockOut up for play (max tick rate 0) at 2022.12.07-07.29.58
+[2022.12.07-06.29.58:827][547]LogWorld: Bringing up level for play took: 0.005664
+[2022.12.07-06.29.58:828][547]LogOnline: OSS: Created online subsystem instance for: :Context_39
+[2022.12.07-06.29.58:829][547]LogWorldPartition: New Streaming Source: PlayerController_0 -> Position: X=5870.000 Y=1430.000 Z=92.400
+[2022.12.07-06.29.58:829][547]LogWorldPartition: Warning: Invalid world bounds, grid partitioning will use a runtime grid with 1 cell.
+[2022.12.07-06.29.58:832][547]PIE: Server logged in
+[2022.12.07-06.29.58:833][547]PIE: Play in editor total start time 0.178 seconds.
+[2022.12.07-06.29.58:887][547]LogViewport: Scene viewport resized to 1914x1000, mode Windowed.
+[2022.12.07-06.30.04:026][148]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.12.07-06.30.04:026][148]LogWorld: BeginTearingDown for /Game/MapAmaya/Blockout/UEDPIE_0_BlockOut
+[2022.12.07-06.30.04:027][148]LogSlate: Window 'PurrfectBrews Preview [NetMode: Standalone]  (64-bit/SM5)' being destroyed
+[2022.12.07-06.30.04:031][148]LogWorld: UWorld::CleanupWorld for BlockOut, bSessionEnded=true, bCleanupResources=true
+[2022.12.07-06.30.04:032][148]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.12.07-06.30.04:039][148]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.12.07-06.30.04:046][148]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.12.07-06.30.04:098][148]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=8
+[2022.12.07-06.30.04:099][148]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=8
+[2022.12.07-06.30.04:106][148]LogUObjectHash: Compacting FUObjectHashTables data took   1.31ms
+[2022.12.07-06.30.04:160][149]LogPlayLevel: Display: Destroying online subsystem :Context_39
+[2022.12.07-06.30.04:165][149]LogViewport: Scene viewport resized to 407x234, mode Windowed.
+[2022.12.07-06.30.57:043][877]LogUObjectGlobals: Warning: Failed to find object 'Class None.Physics'
+[2022.12.07-06.31.16:316][797]LogDebuggerCommands: Repeating last play command: New Editor Window (PIE)
+[2022.12.07-06.31.16:322][797]LogWorldPartition: Display: GenerateStreaming started...
+[2022.12.07-06.31.16:322][797]LogWorldPartition: Display: GetPartitionedActors started...
+[2022.12.07-06.31.16:322][797]LogWorldPartition: Warning: Invalid world bounds, grid partitioning will use a runtime grid with 1 cell.
+[2022.12.07-06.31.16:322][797]LogWorldPartition: Display: ValidateSingleActorReferer started...
+[2022.12.07-06.31.16:322][797]LogWorldPartition: Display: ValidateSingleActorReferer took 0 us
+[2022.12.07-06.31.16:322][797]LogWorldPartition: Display: GetPartitionedActors took 39 us
+[2022.12.07-06.31.16:323][797]LogWorldPartition: Display: GenerateStreaming took 652 us
+[2022.12.07-06.31.16:323][797]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.12.07-06.31.16:323][797]PIE: New page: PIE session: BlockOut (Dec 7, 2022, 8:31:16 AM)
+[2022.12.07-06.31.16:323][797]LogPlayLevel: Creating play world package: /Game/MapAmaya/Blockout/UEDPIE_0_BlockOut
+[2022.12.07-06.31.16:358][797]LogWorldPartition: Initial Data Layer Effective States Activated() Loaded()
+[2022.12.07-06.31.16:367][797]LogPlayLevel: PIE: StaticDuplicateObject took: (0.043152s)
+[2022.12.07-06.31.16:367][797]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/MapAmaya/Blockout/BlockOut.BlockOut to /Game/MapAmaya/Blockout/UEDPIE_0_BlockOut.BlockOut (0.043202s)
+[2022.12.07-06.31.16:367][797]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.12.07-06.31.16:367][797]LogAIModule: Creating AISystem for world BlockOut
+[2022.12.07-06.31.16:368][797]LogWorldPartition: Display: WorldPartition initialize started...
+[2022.12.07-06.31.16:368][797]LogWorldPartition: UWorldPartition::Initialize(IsEditor=0, IsGame=0, IsCooking=0)
+[2022.12.07-06.31.16:377][797]LogWorldPartition: Display: WorldPartition initialize took 9 ms
+[2022.12.07-06.31.16:378][797]LogPlayLevel: PIE: World Init took: (0.010963s)
+[2022.12.07-06.31.16:452][797]LogUObjectHash: Compacting FUObjectHashTables data took   1.79ms
+[2022.12.07-06.31.16:456][797]LogAudio: Display: Creating Audio Device:                 Id: 9, Scope: Unique, Realtime: True
+[2022.12.07-06.31.16:456][797]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.12.07-06.31.16:456][797]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.12.07-06.31.16:456][797]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.12.07-06.31.16:456][797]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.12.07-06.31.16:456][797]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.12.07-06.31.16:456][797]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2022.12.07-06.31.16:456][797]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.12.07-06.31.16:456][797]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.12.07-06.31.16:457][797]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.12.07-06.31.16:457][797]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.12.07-06.31.16:457][797]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.12.07-06.31.16:458][797]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2022.12.07-06.31.16:469][797]LogAudioMixer: Display: Using Audio Hardware Device 24G2W1G4 (NVIDIA High Definition Audio)
+[2022.12.07-06.31.16:469][797]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.12.07-06.31.16:469][797]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.12.07-06.31.16:469][797]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.12.07-06.31.16:470][797]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=9
+[2022.12.07-06.31.16:470][797]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=9
+[2022.12.07-06.31.16:471][797]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=9
+[2022.12.07-06.31.16:471][797]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=9
+[2022.12.07-06.31.16:471][797]LogInit: FAudioDevice initialized.
+[2022.12.07-06.31.16:471][797]LogAudio: Display: Audio Device (ID: 9) registered with world 'BlockOut'.
+[2022.12.07-06.31.16:501][797]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.12.07-06.31.16:501][797]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2022.12.07-06.31.16:506][797]LogWorld: Bringing World /Game/MapAmaya/Blockout/UEDPIE_0_BlockOut.BlockOut up for play (max tick rate 0) at 2022.12.07-07.31.16
+[2022.12.07-06.31.16:506][797]LogWorld: Bringing up level for play took: 0.005434
+[2022.12.07-06.31.16:508][797]LogOnline: OSS: Created online subsystem instance for: :Context_40
+[2022.12.07-06.31.16:508][797]LogWorldPartition: New Streaming Source: PlayerController_0 -> Position: X=5870.000 Y=1430.000 Z=92.400
+[2022.12.07-06.31.16:508][797]LogWorldPartition: Warning: Invalid world bounds, grid partitioning will use a runtime grid with 1 cell.
+[2022.12.07-06.31.16:511][797]PIE: Server logged in
+[2022.12.07-06.31.16:513][797]PIE: Play in editor total start time 0.192 seconds.
+[2022.12.07-06.31.16:562][797]LogViewport: Scene viewport resized to 1914x1000, mode Windowed.
+[2022.12.07-06.31.23:386][603]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.12.07-06.31.23:387][603]LogWorld: BeginTearingDown for /Game/MapAmaya/Blockout/UEDPIE_0_BlockOut
+[2022.12.07-06.31.23:387][603]LogSlate: Window 'PurrfectBrews Preview [NetMode: Standalone]  (64-bit/SM5)' being destroyed
+[2022.12.07-06.31.23:392][603]LogWorld: UWorld::CleanupWorld for BlockOut, bSessionEnded=true, bCleanupResources=true
+[2022.12.07-06.31.23:393][603]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.12.07-06.31.23:418][603]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.12.07-06.31.23:425][603]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.12.07-06.31.23:477][603]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.12.07-06.31.23:479][603]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=9
+[2022.12.07-06.31.23:480][603]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=9
+[2022.12.07-06.31.23:493][603]LogUObjectHash: Compacting FUObjectHashTables data took   1.58ms
+[2022.12.07-06.31.23:559][604]LogPlayLevel: Display: Destroying online subsystem :Context_40
+[2022.12.07-06.31.23:568][604]LogViewport: Scene viewport resized to 407x234, mode Windowed.
+[2022.12.07-06.31.29:465][182]LogDebuggerCommands: Repeating last play command: New Editor Window (PIE)
+[2022.12.07-06.31.29:472][182]LogWorldPartition: Display: GenerateStreaming started...
+[2022.12.07-06.31.29:472][182]LogWorldPartition: Display: GetPartitionedActors started...
+[2022.12.07-06.31.29:472][182]LogWorldPartition: Warning: Invalid world bounds, grid partitioning will use a runtime grid with 1 cell.
+[2022.12.07-06.31.29:472][182]LogWorldPartition: Display: ValidateSingleActorReferer started...
+[2022.12.07-06.31.29:472][182]LogWorldPartition: Display: ValidateSingleActorReferer took 0 us
+[2022.12.07-06.31.29:472][182]LogWorldPartition: Display: GetPartitionedActors took 41 us
+[2022.12.07-06.31.29:472][182]LogWorldPartition: Display: GenerateStreaming took 620 us
+[2022.12.07-06.31.29:472][182]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.12.07-06.31.29:472][182]PIE: New page: PIE session: BlockOut (Dec 7, 2022, 8:31:29 AM)
+[2022.12.07-06.31.29:473][182]LogPlayLevel: Creating play world package: /Game/MapAmaya/Blockout/UEDPIE_0_BlockOut
+[2022.12.07-06.31.29:509][182]LogWorldPartition: Initial Data Layer Effective States Activated() Loaded()
+[2022.12.07-06.31.29:517][182]LogPlayLevel: PIE: StaticDuplicateObject took: (0.044558s)
+[2022.12.07-06.31.29:517][182]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/MapAmaya/Blockout/BlockOut.BlockOut to /Game/MapAmaya/Blockout/UEDPIE_0_BlockOut.BlockOut (0.044612s)
+[2022.12.07-06.31.29:517][182]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.12.07-06.31.29:518][182]LogAIModule: Creating AISystem for world BlockOut
+[2022.12.07-06.31.29:518][182]LogWorldPartition: Display: WorldPartition initialize started...
+[2022.12.07-06.31.29:519][182]LogWorldPartition: UWorldPartition::Initialize(IsEditor=0, IsGame=0, IsCooking=0)
+[2022.12.07-06.31.29:528][182]LogWorldPartition: Display: WorldPartition initialize took 9 ms
+[2022.12.07-06.31.29:528][182]LogPlayLevel: PIE: World Init took: (0.010952s)
+[2022.12.07-06.31.29:579][182]LogUObjectHash: Compacting FUObjectHashTables data took   1.34ms
+[2022.12.07-06.31.29:582][182]LogAudio: Display: Creating Audio Device:                 Id: 10, Scope: Unique, Realtime: True
+[2022.12.07-06.31.29:582][182]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.12.07-06.31.29:582][182]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.12.07-06.31.29:582][182]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.12.07-06.31.29:582][182]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.12.07-06.31.29:582][182]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.12.07-06.31.29:582][182]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2022.12.07-06.31.29:582][182]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.12.07-06.31.29:582][182]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.12.07-06.31.29:583][182]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.12.07-06.31.29:583][182]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.12.07-06.31.29:583][182]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.12.07-06.31.29:584][182]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2022.12.07-06.31.29:596][182]LogAudioMixer: Display: Using Audio Hardware Device 24G2W1G4 (NVIDIA High Definition Audio)
+[2022.12.07-06.31.29:596][182]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.12.07-06.31.29:596][182]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.12.07-06.31.29:597][182]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.12.07-06.31.29:597][182]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=10
+[2022.12.07-06.31.29:597][182]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=10
+[2022.12.07-06.31.29:598][182]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=10
+[2022.12.07-06.31.29:598][182]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=10
+[2022.12.07-06.31.29:598][182]LogInit: FAudioDevice initialized.
+[2022.12.07-06.31.29:598][182]LogAudio: Display: Audio Device (ID: 10) registered with world 'BlockOut'.
+[2022.12.07-06.31.29:629][182]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.12.07-06.31.29:629][182]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2022.12.07-06.31.29:634][182]LogWorld: Bringing World /Game/MapAmaya/Blockout/UEDPIE_0_BlockOut.BlockOut up for play (max tick rate 0) at 2022.12.07-07.31.29
+[2022.12.07-06.31.29:634][182]LogWorld: Bringing up level for play took: 0.005557
+[2022.12.07-06.31.29:635][182]LogOnline: OSS: Created online subsystem instance for: :Context_41
+[2022.12.07-06.31.29:635][182]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2022.12.07-06.31.29:635][182]LogWorldPartition: New Streaming Source: PlayerController_0 -> Position: X=5870.000 Y=1430.000 Z=92.400
+[2022.12.07-06.31.29:635][182]LogWorldPartition: Warning: Invalid world bounds, grid partitioning will use a runtime grid with 1 cell.
+[2022.12.07-06.31.29:639][182]PIE: Server logged in
+[2022.12.07-06.31.29:641][182]PIE: Play in editor total start time 0.172 seconds.
+[2022.12.07-06.31.29:648][182]LogViewport: Scene viewport resized to 1914x1000, mode Windowed.
+[2022.12.07-06.31.33:030][342]LogD3D12RHI: Warning: Force flushing GPU because pending upload allocations reached its limit
+[2022.12.07-06.31.38:876][ 25]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.12.07-06.31.38:876][ 25]LogWorld: BeginTearingDown for /Game/MapAmaya/Blockout/UEDPIE_0_BlockOut
+[2022.12.07-06.31.38:877][ 25]LogSlate: Window 'PurrfectBrews Preview [NetMode: Standalone]  (64-bit/SM5)' being destroyed
+[2022.12.07-06.31.38:883][ 25]LogWorld: UWorld::CleanupWorld for BlockOut, bSessionEnded=true, bCleanupResources=true
+[2022.12.07-06.31.38:883][ 25]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.12.07-06.31.38:909][ 25]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.12.07-06.31.38:917][ 25]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.12.07-06.31.38:971][ 25]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=10
+[2022.12.07-06.31.38:972][ 25]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=10
+[2022.12.07-06.31.38:979][ 25]LogUObjectHash: Compacting FUObjectHashTables data took   1.54ms
+[2022.12.07-06.31.39:053][ 26]LogPlayLevel: Display: Destroying online subsystem :Context_41
+[2022.12.07-06.32.20:335][916]LogEditorClassViewer: Warning: Class /Engine/Tutorial/InWorldBlueprintEditing/TutorialAssets/IWBE_Blutility.IWBE_Blutility_C has parent /Script/Blutility.PlacedEditorUtilityBase, but this parent is not found. The Class will not be shown in ClassViewer.
+[2022.12.07-06.32.37:731][542]BlueprintLog: New page: Compile MyPlayerController
+[2022.12.07-06.32.37:807][542]LogUObjectHash: Compacting FUObjectHashTables data took   1.34ms
+[2022.12.07-06.32.38:674][631]LogSavePackage: Moving output files for package: /Game/MapAmaya/Inventory/MyPlayerController
+[2022.12.07-06.32.38:674][631]LogSavePackage: Moving 'C:/Users/Amaya/Desktop/FinalYearProject/PurrfectBrews/PurrfectBrews/Saved/MyPlayerController283DCB62449CA31B0885F48C26D2DC33.tmp' to 'C:/Users/Amaya/Desktop/FinalYearProject/PurrfectBrews/PurrfectBrews/Content/MapAmaya/Inventory/MyPlayerController.uasset'
+[2022.12.07-06.32.38:686][631]AssetCheck: New page: Asset Save: MyPlayerController
+[2022.12.07-06.32.38:686][631]LogContentValidation: Display: Validating Blueprint /Game/MapAmaya/Inventory/MyPlayerController.MyPlayerController
+[2022.12.07-06.32.39:873][718]LogDebuggerCommands: Repeating last play command: New Editor Window (PIE)
+[2022.12.07-06.32.39:879][718]LogWorldPartition: Display: GenerateStreaming started...
+[2022.12.07-06.32.39:879][718]LogWorldPartition: Display: GetPartitionedActors started...
+[2022.12.07-06.32.39:879][718]LogWorldPartition: Warning: Invalid world bounds, grid partitioning will use a runtime grid with 1 cell.
+[2022.12.07-06.32.39:879][718]LogWorldPartition: Display: ValidateSingleActorReferer started...
+[2022.12.07-06.32.39:879][718]LogWorldPartition: Display: ValidateSingleActorReferer took 0 us
+[2022.12.07-06.32.39:879][718]LogWorldPartition: Display: GetPartitionedActors took 41 us
+[2022.12.07-06.32.39:879][718]LogWorldPartition: Display: GenerateStreaming took 645 us
+[2022.12.07-06.32.39:880][718]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.12.07-06.32.39:880][718]PIE: New page: PIE session: BlockOut (Dec 7, 2022, 8:32:39 AM)
+[2022.12.07-06.32.39:880][718]LogPlayLevel: Creating play world package: /Game/MapAmaya/Blockout/UEDPIE_0_BlockOut
+[2022.12.07-06.32.39:916][718]LogWorldPartition: Initial Data Layer Effective States Activated() Loaded()
+[2022.12.07-06.32.39:924][718]LogPlayLevel: PIE: StaticDuplicateObject took: (0.045599s)
+[2022.12.07-06.32.39:924][718]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/MapAmaya/Blockout/BlockOut.BlockOut to /Game/MapAmaya/Blockout/UEDPIE_0_BlockOut.BlockOut (0.045652s)
+[2022.12.07-06.32.39:925][718]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.12.07-06.32.39:925][718]LogAIModule: Creating AISystem for world BlockOut
+[2022.12.07-06.32.39:926][718]LogWorldPartition: Display: WorldPartition initialize started...
+[2022.12.07-06.32.39:926][718]LogWorldPartition: UWorldPartition::Initialize(IsEditor=0, IsGame=0, IsCooking=0)
+[2022.12.07-06.32.39:936][718]LogWorldPartition: Display: WorldPartition initialize took 9 ms
+[2022.12.07-06.32.39:936][718]LogPlayLevel: PIE: World Init took: (0.011605s)
+[2022.12.07-06.32.39:990][718]LogUObjectHash: Compacting FUObjectHashTables data took   1.54ms
+[2022.12.07-06.32.39:995][718]LogAudio: Display: Creating Audio Device:                 Id: 11, Scope: Unique, Realtime: True
+[2022.12.07-06.32.39:995][718]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.12.07-06.32.39:995][718]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.12.07-06.32.39:995][718]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.12.07-06.32.39:995][718]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.12.07-06.32.39:995][718]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.12.07-06.32.39:995][718]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2022.12.07-06.32.39:995][718]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.12.07-06.32.39:995][718]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.12.07-06.32.39:995][718]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.12.07-06.32.39:995][718]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.12.07-06.32.39:995][718]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.12.07-06.32.39:997][718]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2022.12.07-06.32.40:008][718]LogAudioMixer: Display: Using Audio Hardware Device 24G2W1G4 (NVIDIA High Definition Audio)
+[2022.12.07-06.32.40:008][718]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.12.07-06.32.40:008][718]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.12.07-06.32.40:008][718]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.12.07-06.32.40:008][718]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=11
+[2022.12.07-06.32.40:008][718]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=11
+[2022.12.07-06.32.40:009][718]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=11
+[2022.12.07-06.32.40:009][718]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=11
+[2022.12.07-06.32.40:009][718]LogInit: FAudioDevice initialized.
+[2022.12.07-06.32.40:009][718]LogAudio: Display: Audio Device (ID: 11) registered with world 'BlockOut'.
+[2022.12.07-06.32.40:051][718]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.12.07-06.32.40:052][718]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2022.12.07-06.32.40:057][718]LogWorld: Bringing World /Game/MapAmaya/Blockout/UEDPIE_0_BlockOut.BlockOut up for play (max tick rate 0) at 2022.12.07-07.32.40
+[2022.12.07-06.32.40:058][718]LogWorld: Bringing up level for play took: 0.005931
+[2022.12.07-06.32.40:059][718]LogOnline: OSS: Created online subsystem instance for: :Context_42
+[2022.12.07-06.32.40:060][718]LogWorldPartition: New Streaming Source: PlayerController_0 -> Position: X=5870.000 Y=1430.000 Z=92.400
+[2022.12.07-06.32.40:060][718]LogWorldPartition: Warning: Invalid world bounds, grid partitioning will use a runtime grid with 1 cell.
+[2022.12.07-06.32.40:062][718]PIE: Server logged in
+[2022.12.07-06.32.40:064][718]PIE: Play in editor total start time 0.187 seconds.
+[2022.12.07-06.32.40:112][718]LogViewport: Scene viewport resized to 1914x1000, mode Windowed.
+[2022.12.07-06.32.44:025][172]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.12.07-06.32.44:025][172]LogWorld: BeginTearingDown for /Game/MapAmaya/Blockout/UEDPIE_0_BlockOut
+[2022.12.07-06.32.44:026][172]LogSlate: Window 'PurrfectBrews Preview [NetMode: Standalone]  (64-bit/SM5)' being destroyed
+[2022.12.07-06.32.44:030][172]LogWorld: UWorld::CleanupWorld for BlockOut, bSessionEnded=true, bCleanupResources=true
+[2022.12.07-06.32.44:031][172]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.12.07-06.32.44:059][172]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.12.07-06.32.44:066][172]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.12.07-06.32.44:120][172]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.12.07-06.32.44:120][172]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=11
+[2022.12.07-06.32.44:122][172]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=11
+[2022.12.07-06.32.44:128][172]LogUObjectHash: Compacting FUObjectHashTables data took   1.38ms
+[2022.12.07-06.32.44:197][173]LogPlayLevel: Display: Destroying online subsystem :Context_42
+[2022.12.07-06.32.44:205][173]LogViewport: Scene viewport resized to 407x234, mode Windowed.
+[2022.12.07-06.32.50:386][467]LogUObjectHash: Compacting FUObjectHashTables data took   1.66ms
+[2022.12.07-06.32.51:786][467]LogSlate: Window 'Save Content' being destroyed
+[2022.12.07-06.32.51:846][467]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/MapAmaya/Blockout/BlockOut/3/II/8D5TA1FPSRZB7ZZ8SQBXA0
+[2022.12.07-06.32.51:847][467]LogSavePackage: Moving 'C:/Users/Amaya/Desktop/FinalYearProject/PurrfectBrews/PurrfectBrews/Saved/8D5TA1FPSRZB7ZZ8SQBXA07EC5695E4977EC6A27F0BCB7FEA403A5.tmp' to 'C:/Users/Amaya/Desktop/FinalYearProject/PurrfectBrews/PurrfectBrews/Content/__ExternalActors__/MapAmaya/Blockout/BlockOut/3/II/8D5TA1FPSRZB7ZZ8SQBXA0.uasset'
+[2022.12.07-06.32.51:852][467]LogSavePackage: Moving output files for package: /Game/MapAmaya/Inventory/InventoryComponent
+[2022.12.07-06.32.51:853][467]LogSavePackage: Moving 'C:/Users/Amaya/Desktop/FinalYearProject/PurrfectBrews/PurrfectBrews/Saved/InventoryComponent40D6E59743048A12BB1CB2AFDF63E0FC.tmp' to 'C:/Users/Amaya/Desktop/FinalYearProject/PurrfectBrews/PurrfectBrews/Content/MapAmaya/Inventory/InventoryComponent.uasset'
+[2022.12.07-06.32.51:865][467]AssetCheck: New page: Asset Save: multiple assets
+[2022.12.07-06.32.51:865][467]LogContentValidation: Display: Validating Blueprint /Game/MapAmaya/Inventory/InventoryComponent.InventoryComponent
+[2022.12.07-06.32.51:865][467]LogContentValidation: Display: Validating BP_ThirdCharacter_C /Game/MapAmaya/Blockout/BlockOut.BlockOut:PersistentLevel.BP_ThirdCharacter_C_UAID_C8D9D223833F864A01_1999407887
